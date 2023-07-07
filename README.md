@@ -23,4 +23,6 @@ This is a fun-to-play dice game created using HTML, CSS, and JavaScript. The gam
 <br> 
 Have fun playing the Dice Game!
 
+## [Live demo](https://amir-dicegame.netlify.app/)
+
 ![image](https://github.com/Hashemi-Amir/Dice-Game/assets/58905924/b9bc0b55-57b8-416b-b2f5-e33392db942f)
